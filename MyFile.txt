@@ -1,2 +1,3 @@
 update the file again for testing.
 Local changes
+Conflict changes
